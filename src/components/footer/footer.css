@@ -1,0 +1,12 @@
+footer {
+  background-color: white;
+}
+footer ul {
+  list-style-type: none;
+}
+footer ul li {
+  display: inline;
+}
+footer ul li a {
+  color: black;
+}/*# sourceMappingURL=footer.css.map */
