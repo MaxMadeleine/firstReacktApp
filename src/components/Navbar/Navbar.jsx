@@ -1,5 +1,9 @@
+import { NavBarStyled } from "./Navbar.styled";
+
 export const Navbar = () => {
     return (
+        
+        < NavBarStyled>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
@@ -7,5 +11,6 @@ export const Navbar = () => {
                 <li><a href="#">Contact</a></li>
             </ul>
         </nav>
+        </NavBarStyled>
     )
 };

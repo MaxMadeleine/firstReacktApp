@@ -1,0 +1,42 @@
+header {
+  background-color: red;
+}
+
+footer {
+  background-color: white;
+}
+footer ul {
+  list-style-type: none;
+}
+footer ul li {
+  display: inline;
+}
+footer ul li a {
+  color: black;
+}
+
+main {
+  background-color: blue;
+}
+main .maiin {
+  background-color: red;
+}
+
+nav {
+  background-color: powderblue;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+* {
+  padding: 1rem;
+  margin: 0;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=App.css.map */
